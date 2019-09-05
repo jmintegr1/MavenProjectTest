@@ -1,5 +1,16 @@
 package com.qa.tests;
 
+import org.testng.annotations.Test;
+
 public class LoginTest {
 
+	@Test
+	public void loginTest() {
+		System.out.println("Login Test");
+	}
+	
+	@Test
+	public void checkPageTtitle() {
+		System.out.println("Valid PageTitle or Not");
+	}
 }
