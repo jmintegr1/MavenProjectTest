@@ -6,6 +6,10 @@ public class AboutUs {
 		System.out.println("About Us Page");
 	}
 	
-	public void contactInfo(){
+	public void contactInfo() {
 		System.out.println("Call us so we can serve you");
+
+	}
 }
+	
+	
