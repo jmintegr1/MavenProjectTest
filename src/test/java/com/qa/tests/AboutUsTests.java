@@ -16,5 +16,10 @@ public class AboutUsTests {
 	public void aboutUsTests() {
 		System.out.println("History of us and why you should do business with us");
 	}
+	
+	@Test
+	public void ourForeFathers(){
+		System.out.println("The founder's sacrafice");
+	}
 
 }
