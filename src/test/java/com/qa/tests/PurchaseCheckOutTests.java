@@ -6,7 +6,7 @@ public class PurchaseCheckOutTests {
 	
 	@Test
 	public void purchaseCheckOutTests() {
-		System.out.println("Testing PurchaseCheckOutTests");
+		System.out.println("Testing Purchase and Check Out");
 	}
 	
 	@Test
