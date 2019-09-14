@@ -13,5 +13,10 @@ public class PurchaseCheckOutTests {
 	public void deleteItem(){
 		System.out.println("Delete an item to make changes in the cart");
 	}
+	
+	@Test
+	public void increaseAnItem(){
+		System.out.println("Increase an item by one");
+	}
 
 }
