@@ -21,5 +21,10 @@ public class AboutUsTests {
 	public void ourForeFathers(){
 		System.out.println("The founder's sacrafice");
 	}
+	
+	@Test
+	public void ourValuesTests() {
+		System.out.println("Our core values");
+	}
 
 }
