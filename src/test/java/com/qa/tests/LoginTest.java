@@ -13,4 +13,9 @@ public class LoginTest {
 	public void checkPageTtitle() {
 		System.out.println("Valid PageTitle or Not");
 	}
+	
+	@Test
+	public void loginOutTest(){
+		System.out.println("Make sure to log out");
+	}
 }
